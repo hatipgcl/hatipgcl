@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hatipgcl
 - 👀 I’m interested in web programming.
 - 🌱 I’m currently learning angular/typescript
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me hatipgl7@gmail.com
 
 <!---
